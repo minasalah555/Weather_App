@@ -1,16 +1,36 @@
-# wether_app
+# 🍔 Flutter Food E-Commerce App
 
-A new Flutter project.
+A simple yet powerful food e-commerce application built using **Flutter**. This app demonstrates how to fetch and display food products with categories, images, and details using a ready-to-use API. It also supports CRUD operations and is structured using the **BLoC state management** pattern.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🛍️ List of food products with images and prices  
+- 📂 Categories with filter functionality  
+- 🔍 Search functionality  
+- 📄 Product detail screen  
+- ➕ Add, ✏️ Edit, 🗑️ Delete products (CRUD)  
+- 🧠 BLoC/Cubit for scalable state management  
+- 🌐 Integrated with a **RESTful API**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔧 Technologies Used
+
+- **Flutter**  
+- **Dart**  
+- **BLoC / Cubit**  
+- **Dio** for API integration  
+- **HTTP** package (optional)  
+- **Postman API** or [Fake Store API](https://fakeapi.platzi.com/)  
+- **Responsive UI** with `flutter_screenutil`
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repo
+```bash
+git clone https://github.com/your-username/flutter-food-ecommerce.git
+cd flutter-food-ecommerce
